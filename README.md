@@ -4,7 +4,9 @@
 
 ## 📂 Project
 - [**Devrank**](https://github.com/boostcampwm-2022/web21-devrank) - Github 랭킹 시스템 (2022.09~2022.12)
+- **Matata** - 웹 기반 숏폼 플랫폼 (2022.01~2022.03)
 ## 🛠 Tech
+
 ## ✨ Other
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tunggary&show_icons=true&theme=radical)
